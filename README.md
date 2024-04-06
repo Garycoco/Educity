@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 A university sample project created in React. Project under development
 
 ## Screenshots
-<img src="screenshots/edu_hero.png/>
-<img src="screenshots/edu_courses.png/>
-<img src="screenshots/edu_about.png/>
-![Alt text](/screenshots/edu_hero.png?raw=true "Optional Title")
+
+![Alt text](/screenshots/edu_hero.png?raw=true "Hero section")
+![Alt text](/screenshots/edu_courses.png?raw=true "Courses section")
+![Alt text](/screenshots/edu_about.png?raw=true "About section")
