@@ -8,6 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Educity
 A university sample project created in React. Project under development
-<img src="screenshots/edu_hero/>
-<img src="screenshots/edu_courses/>
-<img src="screenshots/edu_about/>
+<img src="screenshots/edu_hero.png/>
+<img src="screenshots/edu_courses.png/>
+<img src="screenshots/edu_about.png/>
