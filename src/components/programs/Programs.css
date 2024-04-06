@@ -1,0 +1,40 @@
+.programs {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    margin: 5%;
+}
+.program {
+    position: relative;
+}
+.program .main-img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.caption {
+    position: absolute;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    opacity: 0;
+    transition: .4s;
+    padding-top: 70%;
+}
+.caption img {
+    width: 60px;
+}
+.program:hover .caption {
+    background: rgba(8,0,58,0.3);
+    opacity: 1;
+    padding-top: 0;
+}
