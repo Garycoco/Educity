@@ -13,3 +13,4 @@ A university sample project created in React. Project under development
 <img src="screenshots/edu_hero.png/>
 <img src="screenshots/edu_courses.png/>
 <img src="screenshots/edu_about.png/>
+![Alt text](/screenshots/edu_hero.png?raw=true "Optional Title")
